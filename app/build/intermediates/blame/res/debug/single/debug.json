@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/thana/Documents/SimpleTweet/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/thana/Documents/SimpleTweet/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/thana/Documents/SimpleTweet/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/thana/Documents/SimpleTweet/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/thana/Documents/SimpleTweet/app/build/intermediates/res/merged/debug/layout_activity_timeline.xml.flat",
+        "source": "/home/thana/Documents/SimpleTweet/app/src/main/res/layout/activity_timeline.xml"
+    },
+    {
+        "merged": "/home/thana/Documents/SimpleTweet/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/home/thana/Documents/SimpleTweet/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/thana/Documents/SimpleTweet/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/thana/Documents/SimpleTweet/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/thana/Documents/SimpleTweet/app/build/intermediates/res/merged/debug/menu_login.xml.flat",
+        "source": "/home/thana/Documents/SimpleTweet/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/home/thana/Documents/SimpleTweet/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/thana/Documents/SimpleTweet/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/thana/Documents/SimpleTweet/app/build/intermediates/res/merged/debug/layout_item_tweet.xml.flat",
+        "source": "/home/thana/Documents/SimpleTweet/app/src/main/res/layout/item_tweet.xml"
+    },
+    {
+        "merged": "/home/thana/Documents/SimpleTweet/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/thana/Documents/SimpleTweet/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/thana/Documents/SimpleTweet/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_twitter.png.flat",
+        "source": "/home/thana/Documents/SimpleTweet/app/src/main/res/drawable-hdpi/ic_launcher_twitter.png"
+    }
+]
