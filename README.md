@@ -4,8 +4,8 @@
 
 Time spent: **8** hours spent in total
 
-**Twitter App - Part1**
-## User Stories
+
+## Part1 - User Stories
 
 The following **required** functionality is completed:
 
@@ -41,10 +41,9 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
-    
-**Twitter App - Part2**
 
-## User Stories
+
+## Part2 - User Stories
 
 The following **required** functionality is completed:
 
