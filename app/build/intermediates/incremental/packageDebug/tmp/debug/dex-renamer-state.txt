@@ -1,4 +1,4 @@
-#Sat Oct 10 02:52:09 EDT 2020
+#Sat Oct 17 00:28:21 EDT 2020
 base.0=/home/thana/Documents/SimpleTweet/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
